@@ -1,0 +1,239 @@
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.15.101. Set the 'ServerName' directive globally to suppress this message
+[Sun Dec 25 17:12:19.694649 2022] [mpm_event:notice] [pid 27626:tid 4627903936] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Sun Dec 25 17:12:19.695140 2022] [core:notice] [pid 27626:tid 4627903936] AH00094: Command line: '/Users/Bobgravity1/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/Bobgravity1/Library/Application Support/Local/run/_ZUOYEkFC/conf/apache/apache2.conf'
+[Sun Dec 25 17:16:41.639082 2022] [core:warn] [pid 27626:tid 4627903936] AH00045: child process 27682 still did not exit, sending a SIGTERM
+[Sun Dec 25 17:16:43.644052 2022] [core:warn] [pid 27626:tid 4627903936] AH00045: child process 27682 still did not exit, sending a SIGTERM
+[Sun Dec 25 17:16:45.652409 2022] [core:warn] [pid 27626:tid 4627903936] AH00045: child process 27682 still did not exit, sending a SIGTERM
+[Sun Dec 25 17:16:47.653162 2022] [core:error] [pid 27626:tid 4627903936] AH00046: child process 27682 still did not exit, sending a SIGKILL
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.15.101. Set the 'ServerName' directive globally to suppress this message
+[Sun Dec 25 17:16:55.065035 2022] [core:warn] [pid 28095:tid 4608878016] AH00098: pid file /Users/Bobgravity1/Library/Application Support/Local/run/_ZUOYEkFC/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Dec 25 17:16:55.066671 2022] [mpm_event:notice] [pid 28095:tid 4608878016] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Sun Dec 25 17:16:55.066731 2022] [core:notice] [pid 28095:tid 4608878016] AH00094: Command line: '/Users/Bobgravity1/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/Bobgravity1/Library/Application Support/Local/run/_ZUOYEkFC/conf/apache/apache2.conf'
+[Sun Dec 25 17:28:52.355065 2022] [mpm_event:notice] [pid 28095:tid 4608878016] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.15.101. Set the 'ServerName' directive globally to suppress this message
+[Sun Dec 25 17:29:00.292721 2022] [mpm_event:notice] [pid 28641:tid 4573492672] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Sun Dec 25 17:29:00.293221 2022] [core:notice] [pid 28641:tid 4573492672] AH00094: Command line: '/Users/Bobgravity1/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/Bobgravity1/Library/Application Support/Local/run/_ZUOYEkFC/conf/apache/apache2.conf'
+[Sun Dec 25 17:34:21.759699 2022] [mpm_event:notice] [pid 28641:tid 4573492672] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.15.101. Set the 'ServerName' directive globally to suppress this message
+[Sun Dec 25 17:34:27.509286 2022] [mpm_event:notice] [pid 29057:tid 4703872448] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Sun Dec 25 17:34:27.509780 2022] [core:notice] [pid 29057:tid 4703872448] AH00094: Command line: '/Users/Bobgravity1/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/Bobgravity1/Library/Application Support/Local/run/_ZUOYEkFC/conf/apache/apache2.conf'
+[Sun Dec 25 17:38:51.396638 2022] [mpm_event:notice] [pid 29057:tid 4703872448] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.15.101. Set the 'ServerName' directive globally to suppress this message
+[Sun Dec 25 17:38:53.408632 2022] [mpm_event:notice] [pid 29289:tid 4405880256] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Sun Dec 25 17:38:53.409252 2022] [core:notice] [pid 29289:tid 4405880256] AH00094: Command line: '/Users/Bobgravity1/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/Bobgravity1/Library/Application Support/Local/run/_ZUOYEkFC/conf/apache/apache2.conf'
+[Sun Dec 25 17:39:03.172494 2022] [mpm_event:notice] [pid 29289:tid 4405880256] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.15.101. Set the 'ServerName' directive globally to suppress this message
+[Sun Dec 25 17:45:12.796232 2022] [mpm_event:notice] [pid 29629:tid 4470801856] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Sun Dec 25 17:45:12.796638 2022] [core:notice] [pid 29629:tid 4470801856] AH00094: Command line: '/Users/Bobgravity1/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/Bobgravity1/Library/Application Support/Local/run/_ZUOYEkFC/conf/apache/apache2.conf'
+[Sun Dec 25 17:45:22.124012 2022] [core:warn] [pid 29629:tid 4470801856] AH00045: child process 29635 still did not exit, sending a SIGTERM
+[Sun Dec 25 17:45:24.128647 2022] [core:warn] [pid 29629:tid 4470801856] AH00045: child process 29635 still did not exit, sending a SIGTERM
+[Sun Dec 25 17:45:26.133433 2022] [core:warn] [pid 29629:tid 4470801856] AH00045: child process 29635 still did not exit, sending a SIGTERM
+[Sun Dec 25 17:45:28.141570 2022] [core:error] [pid 29629:tid 4470801856] AH00046: child process 29635 still did not exit, sending a SIGKILL
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.15.101. Set the 'ServerName' directive globally to suppress this message
+[Sun Dec 25 17:45:29.950002 2022] [core:warn] [pid 29681:tid 4345243072] AH00098: pid file /Users/Bobgravity1/Library/Application Support/Local/run/_ZUOYEkFC/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Dec 25 17:45:29.953291 2022] [mpm_event:notice] [pid 29681:tid 4345243072] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Sun Dec 25 17:45:29.953354 2022] [core:notice] [pid 29681:tid 4345243072] AH00094: Command line: '/Users/Bobgravity1/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/Bobgravity1/Library/Application Support/Local/run/_ZUOYEkFC/conf/apache/apache2.conf'
+[Sun Dec 25 17:48:47.136330 2022] [core:warn] [pid 29681:tid 4345243072] AH00045: child process 29698 still did not exit, sending a SIGTERM
+[Sun Dec 25 17:48:49.137690 2022] [core:warn] [pid 29681:tid 4345243072] AH00045: child process 29698 still did not exit, sending a SIGTERM
+[Sun Dec 25 17:48:51.142993 2022] [core:warn] [pid 29681:tid 4345243072] AH00045: child process 29698 still did not exit, sending a SIGTERM
+[Sun Dec 25 17:48:53.144002 2022] [core:error] [pid 29681:tid 4345243072] AH00046: child process 29698 still did not exit, sending a SIGKILL
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.15.101. Set the 'ServerName' directive globally to suppress this message
+[Sun Dec 25 17:48:56.723469 2022] [core:warn] [pid 29930:tid 4723164608] AH00098: pid file /Users/Bobgravity1/Library/Application Support/Local/run/_ZUOYEkFC/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Dec 25 17:48:56.724868 2022] [mpm_event:notice] [pid 29930:tid 4723164608] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Sun Dec 25 17:48:56.724919 2022] [core:notice] [pid 29930:tid 4723164608] AH00094: Command line: '/Users/Bobgravity1/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/Bobgravity1/Library/Application Support/Local/run/_ZUOYEkFC/conf/apache/apache2.conf'
+[Sun Dec 25 17:51:37.562402 2022] [mpm_event:notice] [pid 29930:tid 4723164608] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.15.101. Set the 'ServerName' directive globally to suppress this message
+[Sun Dec 25 17:55:24.322981 2022] [mpm_event:notice] [pid 30168:tid 4561208768] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Sun Dec 25 17:55:24.344792 2022] [core:notice] [pid 30168:tid 4561208768] AH00094: Command line: '/Users/Bobgravity1/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/Bobgravity1/Library/Application Support/Local/run/_ZUOYEkFC/conf/apache/apache2.conf'
+[Sun Dec 25 17:55:46.362074 2022] [mpm_event:notice] [pid 30168:tid 4561208768] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.15.101. Set the 'ServerName' directive globally to suppress this message
+[Sun Dec 25 17:57:27.548043 2022] [mpm_event:notice] [pid 30373:tid 4532897216] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Sun Dec 25 17:57:27.548684 2022] [core:notice] [pid 30373:tid 4532897216] AH00094: Command line: '/Users/Bobgravity1/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/Bobgravity1/Library/Application Support/Local/run/_ZUOYEkFC/conf/apache/apache2.conf'
+[Sun Dec 25 17:59:16.293153 2022] [mpm_event:notice] [pid 30373:tid 4532897216] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.15.101. Set the 'ServerName' directive globally to suppress this message
+[Sun Dec 25 17:59:17.400163 2022] [mpm_event:notice] [pid 30453:tid 4555826624] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Sun Dec 25 17:59:17.400527 2022] [core:notice] [pid 30453:tid 4555826624] AH00094: Command line: '/Users/Bobgravity1/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/Bobgravity1/Library/Application Support/Local/run/_ZUOYEkFC/conf/apache/apache2.conf'
+[Sun Dec 25 18:03:10.588978 2022] [mpm_event:notice] [pid 30453:tid 4555826624] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.15.101. Set the 'ServerName' directive globally to suppress this message
+[Sun Dec 25 18:19:31.509495 2022] [mpm_event:notice] [pid 30963:tid 4421383616] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Sun Dec 25 18:19:31.511578 2022] [core:notice] [pid 30963:tid 4421383616] AH00094: Command line: '/Users/Bobgravity1/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/Bobgravity1/Library/Application Support/Local/run/_ZUOYEkFC/conf/apache/apache2.conf'
+[Sun Dec 25 18:19:39.182184 2022] [core:warn] [pid 30963:tid 4421383616] AH00045: child process 30970 still did not exit, sending a SIGTERM
+[Sun Dec 25 18:19:41.187802 2022] [core:warn] [pid 30963:tid 4421383616] AH00045: child process 30970 still did not exit, sending a SIGTERM
+[Sun Dec 25 18:19:43.190776 2022] [core:warn] [pid 30963:tid 4421383616] AH00045: child process 30970 still did not exit, sending a SIGTERM
+[Sun Dec 25 18:19:45.198102 2022] [core:error] [pid 30963:tid 4421383616] AH00046: child process 30970 still did not exit, sending a SIGKILL
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.15.101. Set the 'ServerName' directive globally to suppress this message
+[Mon Dec 26 17:01:56.602326 2022] [core:warn] [pid 53848:tid 4563936704] AH00098: pid file /Users/Bobgravity1/Library/Application Support/Local/run/_ZUOYEkFC/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Dec 26 17:01:56.608785 2022] [mpm_event:notice] [pid 53848:tid 4563936704] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Mon Dec 26 17:01:56.608890 2022] [core:notice] [pid 53848:tid 4563936704] AH00094: Command line: '/Users/Bobgravity1/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/Bobgravity1/Library/Application Support/Local/run/_ZUOYEkFC/conf/apache/apache2.conf'
+[Mon Dec 26 17:38:37.708169 2022] [mpm_event:notice] [pid 53848:tid 4563936704] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.15.101. Set the 'ServerName' directive globally to suppress this message
+[Mon Dec 26 17:38:40.039304 2022] [mpm_event:notice] [pid 55306:tid 4505253312] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Mon Dec 26 17:38:40.039951 2022] [core:notice] [pid 55306:tid 4505253312] AH00094: Command line: '/Users/Bobgravity1/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/Bobgravity1/Library/Application Support/Local/run/_ZUOYEkFC/conf/apache/apache2.conf'
+[Mon Dec 26 19:38:16.309591 2022] [mpm_event:notice] [pid 55306:tid 4505253312] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.15.101. Set the 'ServerName' directive globally to suppress this message
+[Mon Dec 26 19:38:18.563440 2022] [mpm_event:notice] [pid 57244:tid 4666947008] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Mon Dec 26 19:38:18.564444 2022] [core:notice] [pid 57244:tid 4666947008] AH00094: Command line: '/Users/Bobgravity1/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/Bobgravity1/Library/Application Support/Local/run/_ZUOYEkFC/conf/apache/apache2.conf'
+[Mon Dec 26 19:56:45.234575 2022] [mpm_event:notice] [pid 57244:tid 4666947008] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.15.101. Set the 'ServerName' directive globally to suppress this message
+[Tue Dec 27 16:23:18.392342 2022] [mpm_event:notice] [pid 28728:tid 4592879040] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Tue Dec 27 16:23:18.392806 2022] [core:notice] [pid 28728:tid 4592879040] AH00094: Command line: '/Users/Bobgravity1/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/Bobgravity1/Library/Application Support/Local/run/_ZUOYEkFC/conf/apache/apache2.conf'
+[Tue Dec 27 17:47:00.643614 2022] [mpm_event:notice] [pid 28728:tid 4592879040] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.15.101. Set the 'ServerName' directive globally to suppress this message
+[Wed Dec 28 06:58:53.439145 2022] [mpm_event:notice] [pid 1276:tid 4419659200] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Wed Dec 28 06:58:53.440133 2022] [core:notice] [pid 1276:tid 4419659200] AH00094: Command line: '/Users/Bobgravity1/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/Bobgravity1/Library/Application Support/Local/run/_ZUOYEkFC/conf/apache/apache2.conf'
+[Wed Dec 28 14:47:33.716063 2022] [mpm_event:notice] [pid 1276:tid 4419659200] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.15.101. Set the 'ServerName' directive globally to suppress this message
+[Thu Dec 29 15:40:01.095328 2022] [mpm_event:notice] [pid 49928:tid 4644316608] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Thu Dec 29 15:40:01.095671 2022] [core:notice] [pid 49928:tid 4644316608] AH00094: Command line: '/Users/Bobgravity1/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/Bobgravity1/Library/Application Support/Local/run/_ZUOYEkFC/conf/apache/apache2.conf'
+[Thu Dec 29 16:04:34.492115 2022] [mpm_event:notice] [pid 49928:tid 4644316608] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.15.101. Set the 'ServerName' directive globally to suppress this message
+[Thu Dec 29 16:04:36.440427 2022] [mpm_event:notice] [pid 50594:tid 4366775744] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Thu Dec 29 16:04:36.440792 2022] [core:notice] [pid 50594:tid 4366775744] AH00094: Command line: '/Users/Bobgravity1/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/Bobgravity1/Library/Application Support/Local/run/_ZUOYEkFC/conf/apache/apache2.conf'
+[Thu Dec 29 16:51:47.257741 2022] [mpm_event:notice] [pid 50594:tid 4366775744] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.15.101. Set the 'ServerName' directive globally to suppress this message
+[Fri Dec 30 14:05:05.436238 2022] [mpm_event:notice] [pid 70064:tid 4722456000] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Fri Dec 30 14:05:05.436656 2022] [core:notice] [pid 70064:tid 4722456000] AH00094: Command line: '/Users/Bobgravity1/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/Bobgravity1/Library/Application Support/Local/run/_ZUOYEkFC/conf/apache/apache2.conf'
+[Fri Dec 30 14:18:52.503697 2022] [mpm_event:notice] [pid 70064:tid 4722456000] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.15.101. Set the 'ServerName' directive globally to suppress this message
+[Fri Dec 30 14:18:55.070260 2022] [mpm_event:notice] [pid 71101:tid 4589696448] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Fri Dec 30 14:18:55.071531 2022] [core:notice] [pid 71101:tid 4589696448] AH00094: Command line: '/Users/Bobgravity1/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/Bobgravity1/Library/Application Support/Local/run/_ZUOYEkFC/conf/apache/apache2.conf'
+[Fri Dec 30 14:25:10.624804 2022] [mpm_event:notice] [pid 71101:tid 4589696448] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.15.101. Set the 'ServerName' directive globally to suppress this message
+[Fri Dec 30 14:25:12.385205 2022] [mpm_event:notice] [pid 71315:tid 4716398016] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Fri Dec 30 14:25:12.385582 2022] [core:notice] [pid 71315:tid 4716398016] AH00094: Command line: '/Users/Bobgravity1/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/Bobgravity1/Library/Application Support/Local/run/_ZUOYEkFC/conf/apache/apache2.conf'
+[Fri Dec 30 14:45:05.331626 2022] [mpm_event:notice] [pid 71315:tid 4716398016] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.15.101. Set the 'ServerName' directive globally to suppress this message
+[Fri Dec 30 14:45:07.084749 2022] [mpm_event:notice] [pid 71908:tid 4594034112] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Fri Dec 30 14:45:07.085508 2022] [core:notice] [pid 71908:tid 4594034112] AH00094: Command line: '/Users/Bobgravity1/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/Bobgravity1/Library/Application Support/Local/run/_ZUOYEkFC/conf/apache/apache2.conf'
+[Fri Dec 30 15:18:48.851782 2022] [mpm_event:notice] [pid 71908:tid 4594034112] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.15.101. Set the 'ServerName' directive globally to suppress this message
+[Fri Dec 30 15:18:58.735857 2022] [mpm_event:notice] [pid 72908:tid 4710184384] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Fri Dec 30 15:18:58.737434 2022] [core:notice] [pid 72908:tid 4710184384] AH00094: Command line: '/Users/Bobgravity1/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/Bobgravity1/Library/Application Support/Local/run/_ZUOYEkFC/conf/apache/apache2.conf'
+[Fri Dec 30 15:18:59.139015 2022] [mpm_event:notice] [pid 72908:tid 4710184384] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.15.101. Set the 'ServerName' directive globally to suppress this message
+[Fri Dec 30 15:19:04.474818 2022] [mpm_event:notice] [pid 72956:tid 4561638848] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Fri Dec 30 15:19:04.475205 2022] [core:notice] [pid 72956:tid 4561638848] AH00094: Command line: '/Users/Bobgravity1/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/Bobgravity1/Library/Application Support/Local/run/_ZUOYEkFC/conf/apache/apache2.conf'
+[Fri Dec 30 15:19:08.556371 2022] [mpm_event:notice] [pid 72956:tid 4561638848] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.15.101. Set the 'ServerName' directive globally to suppress this message
+[Fri Dec 30 15:19:10.187273 2022] [mpm_event:notice] [pid 72998:tid 4539737536] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Fri Dec 30 15:19:10.187755 2022] [core:notice] [pid 72998:tid 4539737536] AH00094: Command line: '/Users/Bobgravity1/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/Bobgravity1/Library/Application Support/Local/run/_ZUOYEkFC/conf/apache/apache2.conf'
+[Fri Dec 30 15:19:47.613779 2022] [mpm_event:notice] [pid 72998:tid 4539737536] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.15.101. Set the 'ServerName' directive globally to suppress this message
+[Fri Dec 30 15:19:54.294251 2022] [mpm_event:notice] [pid 73085:tid 4464932288] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Fri Dec 30 15:19:54.294648 2022] [core:notice] [pid 73085:tid 4464932288] AH00094: Command line: '/Users/Bobgravity1/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/Bobgravity1/Library/Application Support/Local/run/_ZUOYEkFC/conf/apache/apache2.conf'
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.15.101. Set the 'ServerName' directive globally to suppress this message
+[Fri Dec 30 15:19:58.447893 2022] [core:warn] [pid 73116:tid 4393895360] AH00098: pid file /Users/Bobgravity1/Library/Application Support/Local/run/_ZUOYEkFC/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Dec 30 15:19:58.449251 2022] [mpm_event:notice] [pid 73116:tid 4393895360] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Fri Dec 30 15:19:58.449290 2022] [core:notice] [pid 73116:tid 4393895360] AH00094: Command line: '/Users/Bobgravity1/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/Bobgravity1/Library/Application Support/Local/run/_ZUOYEkFC/conf/apache/apache2.conf'
+[Fri Dec 30 15:20:09.945742 2022] [mpm_event:notice] [pid 73116:tid 4393895360] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.15.101. Set the 'ServerName' directive globally to suppress this message
+[Fri Dec 30 15:20:12.601996 2022] [mpm_event:notice] [pid 73150:tid 4525770176] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Fri Dec 30 15:20:12.602415 2022] [core:notice] [pid 73150:tid 4525770176] AH00094: Command line: '/Users/Bobgravity1/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/Bobgravity1/Library/Application Support/Local/run/_ZUOYEkFC/conf/apache/apache2.conf'
+[Fri Dec 30 15:31:05.515653 2022] [mpm_event:notice] [pid 73150:tid 4525770176] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.15.101. Set the 'ServerName' directive globally to suppress this message
+[Fri Dec 30 15:31:08.755378 2022] [mpm_event:notice] [pid 73442:tid 4455388608] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Fri Dec 30 15:31:08.756497 2022] [core:notice] [pid 73442:tid 4455388608] AH00094: Command line: '/Users/Bobgravity1/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/Bobgravity1/Library/Application Support/Local/run/_ZUOYEkFC/conf/apache/apache2.conf'
+[Fri Dec 30 18:18:47.107866 2022] [mpm_event:notice] [pid 73442:tid 4455388608] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.15.101. Set the 'ServerName' directive globally to suppress this message
+[Fri Dec 30 18:18:54.203082 2022] [mpm_event:notice] [pid 75137:tid 4369081792] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Fri Dec 30 18:18:54.203583 2022] [core:notice] [pid 75137:tid 4369081792] AH00094: Command line: '/Users/Bobgravity1/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/Bobgravity1/Library/Application Support/Local/run/_ZUOYEkFC/conf/apache/apache2.conf'
+[Fri Dec 30 18:31:57.601521 2022] [mpm_event:notice] [pid 75137:tid 4369081792] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.15.101. Set the 'ServerName' directive globally to suppress this message
+[Fri Dec 30 18:31:59.932165 2022] [mpm_event:notice] [pid 75510:tid 4417476032] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Fri Dec 30 18:31:59.932551 2022] [core:notice] [pid 75510:tid 4417476032] AH00094: Command line: '/Users/Bobgravity1/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/Bobgravity1/Library/Application Support/Local/run/_ZUOYEkFC/conf/apache/apache2.conf'
+[Sat Dec 31 07:35:43.767692 2022] [mpm_event:notice] [pid 75510:tid 4417476032] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.15.101. Set the 'ServerName' directive globally to suppress this message
+[Sat Dec 31 07:35:48.338730 2022] [mpm_event:notice] [pid 83286:tid 4523054528] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Sat Dec 31 07:35:48.339109 2022] [core:notice] [pid 83286:tid 4523054528] AH00094: Command line: '/Users/Bobgravity1/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/Bobgravity1/Library/Application Support/Local/run/_ZUOYEkFC/conf/apache/apache2.conf'
+[Sat Dec 31 07:36:04.038723 2022] [mpm_event:notice] [pid 83286:tid 4523054528] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.15.101. Set the 'ServerName' directive globally to suppress this message
+[Sat Dec 31 07:36:05.505741 2022] [mpm_event:notice] [pid 83347:tid 4473038272] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Sat Dec 31 07:36:05.506097 2022] [core:notice] [pid 83347:tid 4473038272] AH00094: Command line: '/Users/Bobgravity1/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/Bobgravity1/Library/Application Support/Local/run/_ZUOYEkFC/conf/apache/apache2.conf'
+[Sat Dec 31 07:36:24.738181 2022] [mpm_event:notice] [pid 83347:tid 4473038272] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.15.101. Set the 'ServerName' directive globally to suppress this message
+[Sat Dec 31 07:36:26.203624 2022] [mpm_event:notice] [pid 83400:tid 4718417344] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Sat Dec 31 07:36:26.203997 2022] [core:notice] [pid 83400:tid 4718417344] AH00094: Command line: '/Users/Bobgravity1/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/Bobgravity1/Library/Application Support/Local/run/_ZUOYEkFC/conf/apache/apache2.conf'
+[Sat Dec 31 07:36:41.908295 2022] [mpm_event:notice] [pid 83400:tid 4718417344] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.15.101. Set the 'ServerName' directive globally to suppress this message
+[Sat Dec 31 07:36:43.379569 2022] [mpm_event:notice] [pid 83449:tid 4378666432] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Sat Dec 31 07:36:43.380035 2022] [core:notice] [pid 83449:tid 4378666432] AH00094: Command line: '/Users/Bobgravity1/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/Bobgravity1/Library/Application Support/Local/run/_ZUOYEkFC/conf/apache/apache2.conf'
+[Sat Dec 31 08:06:33.003463 2022] [mpm_event:notice] [pid 83449:tid 4378666432] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.15.101. Set the 'ServerName' directive globally to suppress this message
+[Sat Dec 31 08:06:34.420848 2022] [mpm_event:notice] [pid 84324:tid 4677002688] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Sat Dec 31 08:06:34.421290 2022] [core:notice] [pid 84324:tid 4677002688] AH00094: Command line: '/Users/Bobgravity1/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/Bobgravity1/Library/Application Support/Local/run/_ZUOYEkFC/conf/apache/apache2.conf'
+[Sat Dec 31 08:06:49.642967 2022] [core:warn] [pid 84324:tid 4677002688] AH00045: child process 84330 still did not exit, sending a SIGTERM
+[Sat Dec 31 08:06:51.647556 2022] [core:warn] [pid 84324:tid 4677002688] AH00045: child process 84330 still did not exit, sending a SIGTERM
+[Sat Dec 31 08:06:53.652943 2022] [core:warn] [pid 84324:tid 4677002688] AH00045: child process 84330 still did not exit, sending a SIGTERM
+[Sat Dec 31 08:06:55.655087 2022] [core:error] [pid 84324:tid 4677002688] AH00046: child process 84330 still did not exit, sending a SIGKILL
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.15.101. Set the 'ServerName' directive globally to suppress this message
+[Sat Dec 31 08:08:02.087883 2022] [core:warn] [pid 84407:tid 4685596096] AH00098: pid file /Users/Bobgravity1/Library/Application Support/Local/run/_ZUOYEkFC/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Dec 31 08:08:02.089802 2022] [mpm_event:notice] [pid 84407:tid 4685596096] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Sat Dec 31 08:08:02.089858 2022] [core:notice] [pid 84407:tid 4685596096] AH00094: Command line: '/Users/Bobgravity1/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/Bobgravity1/Library/Application Support/Local/run/_ZUOYEkFC/conf/apache/apache2.conf'
+[Sat Dec 31 08:08:14.805304 2022] [mpm_event:notice] [pid 84407:tid 4685596096] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.15.101. Set the 'ServerName' directive globally to suppress this message
+[Sat Dec 31 08:08:16.449622 2022] [mpm_event:notice] [pid 84454:tid 4331820480] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Sat Dec 31 08:08:16.450018 2022] [core:notice] [pid 84454:tid 4331820480] AH00094: Command line: '/Users/Bobgravity1/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/Bobgravity1/Library/Application Support/Local/run/_ZUOYEkFC/conf/apache/apache2.conf'
+[Sat Dec 31 08:08:46.856314 2022] [mpm_event:notice] [pid 84454:tid 4331820480] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.15.101. Set the 'ServerName' directive globally to suppress this message
+[Sat Dec 31 08:08:49.048929 2022] [mpm_event:notice] [pid 84521:tid 4792710592] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Sat Dec 31 08:08:49.049344 2022] [core:notice] [pid 84521:tid 4792710592] AH00094: Command line: '/Users/Bobgravity1/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/Bobgravity1/Library/Application Support/Local/run/_ZUOYEkFC/conf/apache/apache2.conf'
+[Sat Dec 31 08:09:54.954341 2022] [mpm_event:notice] [pid 84521:tid 4792710592] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.15.101. Set the 'ServerName' directive globally to suppress this message
+[Sat Dec 31 08:10:17.020629 2022] [mpm_event:notice] [pid 84605:tid 4614882752] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Sat Dec 31 08:10:17.021231 2022] [core:notice] [pid 84605:tid 4614882752] AH00094: Command line: '/Users/Bobgravity1/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/Bobgravity1/Library/Application Support/Local/run/_ZUOYEkFC/conf/apache/apache2.conf'
+[Sat Dec 31 08:10:17.897253 2022] [mpm_event:notice] [pid 84605:tid 4614882752] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.15.101. Set the 'ServerName' directive globally to suppress this message
+[Sat Dec 31 08:10:22.007943 2022] [mpm_event:notice] [pid 84650:tid 4533560768] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Sat Dec 31 08:10:22.009352 2022] [core:notice] [pid 84650:tid 4533560768] AH00094: Command line: '/Users/Bobgravity1/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/Bobgravity1/Library/Application Support/Local/run/_ZUOYEkFC/conf/apache/apache2.conf'
+[Sat Dec 31 08:12:12.147381 2022] [mpm_event:notice] [pid 84650:tid 4533560768] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.15.101. Set the 'ServerName' directive globally to suppress this message
+[Sat Dec 31 08:12:28.963845 2022] [mpm_event:notice] [pid 84894:tid 4487013824] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Sat Dec 31 08:12:28.964244 2022] [core:notice] [pid 84894:tid 4487013824] AH00094: Command line: '/Users/Bobgravity1/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/Bobgravity1/Library/Application Support/Local/run/_ZUOYEkFC/conf/apache/apache2.conf'
+[Sat Dec 31 08:13:10.336103 2022] [core:warn] [pid 84894:tid 4487013824] AH00045: child process 84900 still did not exit, sending a SIGTERM
+[Sat Dec 31 08:13:12.337913 2022] [core:warn] [pid 84894:tid 4487013824] AH00045: child process 84900 still did not exit, sending a SIGTERM
+[Sat Dec 31 08:13:14.339118 2022] [core:warn] [pid 84894:tid 4487013824] AH00045: child process 84900 still did not exit, sending a SIGTERM
+[Sat Dec 31 08:13:16.344428 2022] [core:error] [pid 84894:tid 4487013824] AH00046: child process 84900 still did not exit, sending a SIGKILL
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.15.101. Set the 'ServerName' directive globally to suppress this message
+[Sat Dec 31 08:13:27.743716 2022] [core:warn] [pid 84952:tid 4500366784] AH00098: pid file /Users/Bobgravity1/Library/Application Support/Local/run/_ZUOYEkFC/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Dec 31 08:13:27.748670 2022] [mpm_event:notice] [pid 84952:tid 4500366784] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Sat Dec 31 08:13:27.748784 2022] [core:notice] [pid 84952:tid 4500366784] AH00094: Command line: '/Users/Bobgravity1/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/Bobgravity1/Library/Application Support/Local/run/_ZUOYEkFC/conf/apache/apache2.conf'
+[Sat Dec 31 08:13:34.740953 2022] [mpm_event:notice] [pid 84952:tid 4500366784] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.15.101. Set the 'ServerName' directive globally to suppress this message
+[Sat Dec 31 08:32:40.483374 2022] [mpm_event:notice] [pid 86011:tid 4530664896] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Sat Dec 31 08:32:40.483840 2022] [core:notice] [pid 86011:tid 4530664896] AH00094: Command line: '/Users/Bobgravity1/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/Bobgravity1/Library/Application Support/Local/run/_ZUOYEkFC/conf/apache/apache2.conf'
+[Sat Dec 31 08:32:42.132882 2022] [mpm_event:notice] [pid 86011:tid 4530664896] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.15.101. Set the 'ServerName' directive globally to suppress this message
+[Sat Dec 31 08:32:53.223320 2022] [mpm_event:notice] [pid 86066:tid 4568696256] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Sat Dec 31 08:32:53.223891 2022] [core:notice] [pid 86066:tid 4568696256] AH00094: Command line: '/Users/Bobgravity1/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/Bobgravity1/Library/Application Support/Local/run/_ZUOYEkFC/conf/apache/apache2.conf'
+[Sat Dec 31 08:33:53.018570 2022] [core:warn] [pid 86066:tid 4568696256] AH00045: child process 86074 still did not exit, sending a SIGTERM
+[Sat Dec 31 08:33:55.027789 2022] [core:warn] [pid 86066:tid 4568696256] AH00045: child process 86074 still did not exit, sending a SIGTERM
+[Sat Dec 31 08:33:57.035004 2022] [core:warn] [pid 86066:tid 4568696256] AH00045: child process 86074 still did not exit, sending a SIGTERM
+[Sat Dec 31 08:33:59.042302 2022] [core:error] [pid 86066:tid 4568696256] AH00046: child process 86074 still did not exit, sending a SIGKILL
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.15.101. Set the 'ServerName' directive globally to suppress this message
+[Sat Dec 31 08:34:03.443357 2022] [core:warn] [pid 86170:tid 4676777408] AH00098: pid file /Users/Bobgravity1/Library/Application Support/Local/run/_ZUOYEkFC/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Dec 31 08:34:03.448828 2022] [mpm_event:notice] [pid 86170:tid 4676777408] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Sat Dec 31 08:34:03.448889 2022] [core:notice] [pid 86170:tid 4676777408] AH00094: Command line: '/Users/Bobgravity1/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/Bobgravity1/Library/Application Support/Local/run/_ZUOYEkFC/conf/apache/apache2.conf'
+[Sat Dec 31 08:34:57.950825 2022] [core:warn] [pid 86170:tid 4676777408] AH00045: child process 86177 still did not exit, sending a SIGTERM
+[Sat Dec 31 08:34:59.955366 2022] [core:warn] [pid 86170:tid 4676777408] AH00045: child process 86177 still did not exit, sending a SIGTERM
+[Sat Dec 31 08:35:01.958948 2022] [core:warn] [pid 86170:tid 4676777408] AH00045: child process 86177 still did not exit, sending a SIGTERM
+[Sat Dec 31 08:35:03.965392 2022] [core:error] [pid 86170:tid 4676777408] AH00046: child process 86177 still did not exit, sending a SIGKILL
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.15.101. Set the 'ServerName' directive globally to suppress this message
+[Sat Dec 31 08:35:06.094729 2022] [core:warn] [pid 86286:tid 4718032320] AH00098: pid file /Users/Bobgravity1/Library/Application Support/Local/run/_ZUOYEkFC/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Dec 31 08:35:06.099883 2022] [mpm_event:notice] [pid 86286:tid 4718032320] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Sat Dec 31 08:35:06.099944 2022] [core:notice] [pid 86286:tid 4718032320] AH00094: Command line: '/Users/Bobgravity1/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/Bobgravity1/Library/Application Support/Local/run/_ZUOYEkFC/conf/apache/apache2.conf'
+[Sat Dec 31 08:38:38.022423 2022] [core:warn] [pid 86286:tid 4718032320] AH00045: child process 86294 still did not exit, sending a SIGTERM
+[Sat Dec 31 08:38:40.029623 2022] [core:warn] [pid 86286:tid 4718032320] AH00045: child process 86294 still did not exit, sending a SIGTERM
+[Sat Dec 31 08:38:42.035714 2022] [core:warn] [pid 86286:tid 4718032320] AH00045: child process 86294 still did not exit, sending a SIGTERM
+[Sat Dec 31 08:38:44.037453 2022] [core:error] [pid 86286:tid 4718032320] AH00046: child process 86294 still did not exit, sending a SIGKILL
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.15.101. Set the 'ServerName' directive globally to suppress this message
+[Sat Dec 31 08:38:44.842274 2022] [core:warn] [pid 86599:tid 4702205376] AH00098: pid file /Users/Bobgravity1/Library/Application Support/Local/run/_ZUOYEkFC/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Dec 31 08:38:44.844228 2022] [mpm_event:notice] [pid 86599:tid 4702205376] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Sat Dec 31 08:38:44.844288 2022] [core:notice] [pid 86599:tid 4702205376] AH00094: Command line: '/Users/Bobgravity1/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/Bobgravity1/Library/Application Support/Local/run/_ZUOYEkFC/conf/apache/apache2.conf'
+[Sat Dec 31 08:38:58.565415 2022] [core:warn] [pid 86599:tid 4702205376] AH00045: child process 86615 still did not exit, sending a SIGTERM
+[Sat Dec 31 08:39:00.574368 2022] [core:warn] [pid 86599:tid 4702205376] AH00045: child process 86615 still did not exit, sending a SIGTERM
+[Sat Dec 31 08:39:02.580670 2022] [core:warn] [pid 86599:tid 4702205376] AH00045: child process 86615 still did not exit, sending a SIGTERM
+[Sat Dec 31 08:39:04.586395 2022] [core:error] [pid 86599:tid 4702205376] AH00046: child process 86615 still did not exit, sending a SIGKILL
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.15.101. Set the 'ServerName' directive globally to suppress this message
+[Sat Dec 31 08:39:05.376159 2022] [core:warn] [pid 86639:tid 4390667712] AH00098: pid file /Users/Bobgravity1/Library/Application Support/Local/run/_ZUOYEkFC/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Dec 31 08:39:05.377698 2022] [mpm_event:notice] [pid 86639:tid 4390667712] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Sat Dec 31 08:39:05.377754 2022] [core:notice] [pid 86639:tid 4390667712] AH00094: Command line: '/Users/Bobgravity1/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/Bobgravity1/Library/Application Support/Local/run/_ZUOYEkFC/conf/apache/apache2.conf'

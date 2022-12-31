@@ -1,0 +1,104 @@
+[Sun Dec 25 17:12:50.351686 2022] [proxy_fcgi:error] [pid 27633:tid 123145386090496] [client ::1:58263] AH01067: Failed to read FastCGI header, referer: http://localhost:10005/wp-login.php?redirect_to=http%3A%2F%2Flocalhost%3A10005%2Fwp-admin%2F&reauth=1
+[Sun Dec 25 17:12:50.351895 2022] [proxy_fcgi:error] [pid 27633:tid 123145386090496] (70014)End of file found: [client ::1:58263] AH01075: Error dispatching request to :10005: , referer: http://localhost:10005/wp-login.php?redirect_to=http%3A%2F%2Flocalhost%3A10005%2Fwp-admin%2F&reauth=1
+[Sun Dec 25 17:12:52.706260 2022] [proxy_fcgi:error] [pid 27631:tid 123145387700224] [client ::1:58267] AH01067: Failed to read FastCGI header
+[Sun Dec 25 17:12:52.706401 2022] [proxy_fcgi:error] [pid 27631:tid 123145387700224] (70014)End of file found: [client ::1:58267] AH01075: Error dispatching request to :10005: 
+[Sun Dec 25 17:13:05.327054 2022] [proxy_fcgi:error] [pid 27682:tid 123145386627072] [client ::1:58277] AH01067: Failed to read FastCGI header
+[Sun Dec 25 17:13:05.327422 2022] [proxy_fcgi:error] [pid 27682:tid 123145386627072] (70014)End of file found: [client ::1:58277] AH01075: Error dispatching request to :10005: 
+[Sun Dec 25 17:15:10.613818 2022] [proxy_fcgi:error] [pid 27682:tid 123145387700224] [client ::1:58390] AH01067: Failed to read FastCGI header, referer: http://localhost:10005/wp-admin/edit.php
+[Sun Dec 25 17:15:10.614451 2022] [proxy_fcgi:error] [pid 27682:tid 123145387700224] (70014)End of file found: [client ::1:58390] AH01075: Error dispatching request to :10005: , referer: http://localhost:10005/wp-admin/edit.php
+[Sun Dec 25 17:15:39.789139 2022] [proxy_fcgi:error] [pid 27682:tid 123145390383104] [client ::1:58442] AH01067: Failed to read FastCGI header
+[Sun Dec 25 17:15:39.789388 2022] [proxy_fcgi:error] [pid 27682:tid 123145390383104] (70014)End of file found: [client ::1:58442] AH01075: Error dispatching request to :10005: 
+[Sun Dec 25 17:16:00.839138 2022] [proxy_fcgi:error] [pid 27633:tid 123145390919680] [client ::1:58443] AH01067: Failed to read FastCGI header
+[Sun Dec 25 17:16:00.839172 2022] [proxy_fcgi:error] [pid 27633:tid 123145390919680] (70014)End of file found: [client ::1:58443] AH01075: Error dispatching request to :10005: 
+[Sun Dec 25 17:17:03.791866 2022] [proxy_fcgi:error] [pid 28104:tid 123145348755456] [client ::1:58506] AH01067: Failed to read FastCGI header
+[Sun Dec 25 17:17:03.791906 2022] [proxy_fcgi:error] [pid 28104:tid 123145348755456] (70014)End of file found: [client ::1:58506] AH01075: Error dispatching request to :10005: 
+[Sun Dec 25 17:18:12.789017 2022] [proxy_fcgi:error] [pid 28104:tid 123145349828608] [client ::1:58607] AH01067: Failed to read FastCGI header
+[Sun Dec 25 17:18:12.789246 2022] [proxy_fcgi:error] [pid 28104:tid 123145349828608] (70014)End of file found: [client ::1:58607] AH01075: Error dispatching request to :10005: 
+[Sun Dec 25 17:18:18.778348 2022] [proxy_fcgi:error] [pid 28103:tid 123145350365184] [client ::1:58612] AH01067: Failed to read FastCGI header
+[Sun Dec 25 17:18:18.778556 2022] [proxy_fcgi:error] [pid 28103:tid 123145350365184] (70014)End of file found: [client ::1:58612] AH01075: Error dispatching request to :10005: 
+[Sun Dec 25 17:22:17.365268 2022] [proxy_fcgi:error] [pid 28104:tid 123145350901760] [client ::1:58712] AH01067: Failed to read FastCGI header
+[Sun Dec 25 17:22:17.365641 2022] [proxy_fcgi:error] [pid 28104:tid 123145350901760] (70014)End of file found: [client ::1:58712] AH01075: Error dispatching request to :10005: 
+[Sun Dec 25 17:22:22.520771 2022] [proxy_fcgi:error] [pid 28103:tid 123145352511488] [client ::1:58713] AH01067: Failed to read FastCGI header
+[Sun Dec 25 17:22:22.520821 2022] [proxy_fcgi:error] [pid 28103:tid 123145352511488] (70014)End of file found: [client ::1:58713] AH01075: Error dispatching request to :10005: 
+[Sun Dec 25 17:22:36.543049 2022] [proxy_fcgi:error] [pid 28112:tid 123145351438336] [client ::1:58714] AH01067: Failed to read FastCGI header, referer: http://localhost:10005/
+[Sun Dec 25 17:22:36.543180 2022] [proxy_fcgi:error] [pid 28112:tid 123145351438336] (70014)End of file found: [client ::1:58714] AH01075: Error dispatching request to :10005: , referer: http://localhost:10005/
+[Sun Dec 25 17:23:39.627781 2022] [proxy_fcgi:error] [pid 28112:tid 123145353584640] [client ::1:58783] AH01067: Failed to read FastCGI header, referer: http://localhost:10005/
+[Sun Dec 25 17:23:39.628148 2022] [proxy_fcgi:error] [pid 28112:tid 123145353584640] (70014)End of file found: [client ::1:58783] AH01075: Error dispatching request to :10005: , referer: http://localhost:10005/
+[Sun Dec 25 17:26:39.893604 2022] [proxy_fcgi:error] [pid 28112:tid 123145357340672] [client 127.0.0.1:58844] AH01067: Failed to read FastCGI header
+[Sun Dec 25 17:26:39.894628 2022] [proxy_fcgi:error] [pid 28112:tid 123145357340672] (70014)End of file found: [client 127.0.0.1:58844] AH01075: Error dispatching request to :10005: 
+[Sun Dec 25 17:26:57.950571 2022] [proxy_fcgi:error] [pid 28104:tid 123145351974912] [client 127.0.0.1:58851] AH01067: Failed to read FastCGI header
+[Sun Dec 25 17:26:57.950771 2022] [proxy_fcgi:error] [pid 28104:tid 123145351974912] (70014)End of file found: [client 127.0.0.1:58851] AH01075: Error dispatching request to :10005: 
+[Sun Dec 25 17:27:17.411222 2022] [proxy_fcgi:error] [pid 28104:tid 123145354657792] [client 127.0.0.1:58855] AH01067: Failed to read FastCGI header
+[Sun Dec 25 17:27:17.411395 2022] [proxy_fcgi:error] [pid 28104:tid 123145354657792] (70014)End of file found: [client 127.0.0.1:58855] AH01075: Error dispatching request to :10005: 
+[Sun Dec 25 17:27:22.799817 2022] [proxy_fcgi:error] [pid 28104:tid 123145353584640] [client 127.0.0.1:58859] AH01067: Failed to read FastCGI header
+[Sun Dec 25 17:27:22.799988 2022] [proxy_fcgi:error] [pid 28104:tid 123145353584640] (70014)End of file found: [client 127.0.0.1:58859] AH01075: Error dispatching request to :10005: 
+[Sun Dec 25 17:27:32.093712 2022] [proxy_fcgi:error] [pid 28104:tid 123145355730944] [client 127.0.0.1:58863] AH01067: Failed to read FastCGI header
+[Sun Dec 25 17:27:32.093879 2022] [proxy_fcgi:error] [pid 28104:tid 123145355730944] (70014)End of file found: [client 127.0.0.1:58863] AH01075: Error dispatching request to :10005: 
+[Sun Dec 25 17:27:33.693716 2022] [proxy_fcgi:error] [pid 28103:tid 123145353584640] [client 127.0.0.1:58864] AH01067: Failed to read FastCGI header
+[Sun Dec 25 17:27:33.693932 2022] [proxy_fcgi:error] [pid 28103:tid 123145353584640] (70014)End of file found: [client 127.0.0.1:58864] AH01075: Error dispatching request to :10005: 
+[Sun Dec 25 17:27:54.820052 2022] [proxy_fcgi:error] [pid 28112:tid 123145351438336] [client 127.0.0.1:58891] AH01067: Failed to read FastCGI header
+[Sun Dec 25 17:27:54.833483 2022] [proxy_fcgi:error] [pid 28112:tid 123145351438336] (70014)End of file found: [client 127.0.0.1:58891] AH01075: Error dispatching request to :10005: 
+[Sun Dec 25 17:28:36.382854 2022] [proxy_fcgi:error] [pid 28112:tid 123145351974912] [client 127.0.0.1:58911] AH01067: Failed to read FastCGI header
+[Sun Dec 25 17:28:36.383205 2022] [proxy_fcgi:error] [pid 28112:tid 123145351974912] (70014)End of file found: [client 127.0.0.1:58911] AH01075: Error dispatching request to :10005: 
+[Sun Dec 25 17:29:02.271627 2022] [proxy_fcgi:error] [pid 28649:tid 123145379438592] [client 127.0.0.1:58930] AH01067: Failed to read FastCGI header
+[Sun Dec 25 17:29:02.272166 2022] [proxy_fcgi:error] [pid 28649:tid 123145379438592] (70014)End of file found: [client 127.0.0.1:58930] AH01075: Error dispatching request to :10005: 
+[Sun Dec 25 17:32:03.546516 2022] [proxy_fcgi:error] [pid 28649:tid 123145382658048] [client 127.0.0.1:59036] AH01067: Failed to read FastCGI header
+[Sun Dec 25 17:32:03.546801 2022] [proxy_fcgi:error] [pid 28649:tid 123145382658048] (70014)End of file found: [client 127.0.0.1:59036] AH01075: Error dispatching request to :10005: 
+[Sun Dec 25 17:32:07.799613 2022] [proxy_fcgi:error] [pid 28649:tid 123145384804352] [client 127.0.0.1:59041] AH01067: Failed to read FastCGI header
+[Sun Dec 25 17:32:07.799639 2022] [proxy_fcgi:error] [pid 28649:tid 123145384804352] (70014)End of file found: [client 127.0.0.1:59041] AH01075: Error dispatching request to :10005: 
+[Sun Dec 25 17:32:40.466575 2022] [proxy_fcgi:error] [pid 28870:tid 123145379438592] [client 127.0.0.1:59052] AH01067: Failed to read FastCGI header
+[Sun Dec 25 17:32:40.466726 2022] [proxy_fcgi:error] [pid 28870:tid 123145379438592] (70014)End of file found: [client 127.0.0.1:59052] AH01075: Error dispatching request to :10005: 
+[Sun Dec 25 17:33:37.968882 2022] [proxy_fcgi:error] [pid 28870:tid 123145382121472] [client 127.0.0.1:59070] AH01067: Failed to read FastCGI header
+[Sun Dec 25 17:33:37.968907 2022] [proxy_fcgi:error] [pid 28870:tid 123145382121472] (70014)End of file found: [client 127.0.0.1:59070] AH01075: Error dispatching request to :10005: 
+[Sun Dec 25 17:33:55.952536 2022] [proxy_fcgi:error] [pid 28870:tid 123145383194624] [client 127.0.0.1:59110] AH01067: Failed to read FastCGI header, referer: http://wp-devs.local/wp-login.php?redirect_to=http%3A%2F%2Fwp-devs.local%2Fwp-admin%2F&reauth=1
+[Sun Dec 25 17:33:55.952561 2022] [proxy_fcgi:error] [pid 28870:tid 123145383194624] (70014)End of file found: [client 127.0.0.1:59110] AH01075: Error dispatching request to :10005: , referer: http://wp-devs.local/wp-login.php?redirect_to=http%3A%2F%2Fwp-devs.local%2Fwp-admin%2F&reauth=1
+[Sun Dec 25 17:34:32.698017 2022] [proxy_fcgi:error] [pid 29063:tid 123145349283840] [client 127.0.0.1:59145] AH01067: Failed to read FastCGI header
+[Sun Dec 25 17:34:32.698053 2022] [proxy_fcgi:error] [pid 29063:tid 123145349283840] (70014)End of file found: [client 127.0.0.1:59145] AH01075: Error dispatching request to :10005: 
+[Sun Dec 25 17:35:11.767613 2022] [proxy_fcgi:error] [pid 29084:tid 123145347137536] [client 127.0.0.1:59154] AH01067: Failed to read FastCGI header
+[Sun Dec 25 17:35:11.767795 2022] [proxy_fcgi:error] [pid 29084:tid 123145347137536] (70014)End of file found: [client 127.0.0.1:59154] AH01075: Error dispatching request to :10005: 
+[Sun Dec 25 17:35:13.972186 2022] [proxy_fcgi:error] [pid 29063:tid 123145352503296] [client 127.0.0.1:59157] AH01067: Failed to read FastCGI header
+[Sun Dec 25 17:35:13.972208 2022] [proxy_fcgi:error] [pid 29063:tid 123145352503296] (70014)End of file found: [client 127.0.0.1:59157] AH01075: Error dispatching request to :10005: 
+[Sun Dec 25 17:35:39.139072 2022] [proxy_fcgi:error] [pid 29063:tid 123145355186176] [client 127.0.0.1:59172] AH01067: Failed to read FastCGI header
+[Sun Dec 25 17:35:39.139208 2022] [proxy_fcgi:error] [pid 29063:tid 123145355186176] (70014)End of file found: [client 127.0.0.1:59172] AH01075: Error dispatching request to :10005: 
+[Sun Dec 25 17:36:34.386030 2022] [proxy_fcgi:error] [pid 29063:tid 123145347674112] [client 127.0.0.1:59200] AH01067: Failed to read FastCGI header
+[Sun Dec 25 17:36:34.386058 2022] [proxy_fcgi:error] [pid 29063:tid 123145347674112] (70014)End of file found: [client 127.0.0.1:59200] AH01075: Error dispatching request to :10005: 
+[Sun Dec 25 17:37:18.474276 2022] [proxy_fcgi:error] [pid 29084:tid 123145351430144] [client 127.0.0.1:59212] AH01067: Failed to read FastCGI header
+[Sun Dec 25 17:37:18.474409 2022] [proxy_fcgi:error] [pid 29084:tid 123145351430144] (70014)End of file found: [client 127.0.0.1:59212] AH01075: Error dispatching request to :10005: 
+[Sun Dec 25 17:37:20.546727 2022] [proxy_fcgi:error] [pid 29084:tid 123145354113024] [client 127.0.0.1:59216] AH01067: Failed to read FastCGI header
+[Sun Dec 25 17:37:20.546752 2022] [proxy_fcgi:error] [pid 29084:tid 123145354113024] (70014)End of file found: [client 127.0.0.1:59216] AH01075: Error dispatching request to :10005: 
+[Sun Dec 25 17:38:09.710800 2022] [proxy_fcgi:error] [pid 29063:tid 123145348210688] [client 127.0.0.1:59234] AH01067: Failed to read FastCGI header
+[Sun Dec 25 17:38:09.711016 2022] [proxy_fcgi:error] [pid 29063:tid 123145348210688] (70014)End of file found: [client 127.0.0.1:59234] AH01075: Error dispatching request to :10005: 
+[Sun Dec 25 17:38:11.448595 2022] [proxy_fcgi:error] [pid 29084:tid 123145356795904] [client 127.0.0.1:59238] AH01067: Failed to read FastCGI header
+[Sun Dec 25 17:38:11.448919 2022] [proxy_fcgi:error] [pid 29084:tid 123145356795904] (70014)End of file found: [client 127.0.0.1:59238] AH01075: Error dispatching request to :10005: 
+[Sun Dec 25 17:38:49.169507 2022] [proxy_fcgi:error] [pid 29084:tid 123145357869056] [client 127.0.0.1:59248] AH01067: Failed to read FastCGI header
+[Sun Dec 25 17:38:49.169647 2022] [proxy_fcgi:error] [pid 29084:tid 123145357869056] (70014)End of file found: [client 127.0.0.1:59248] AH01075: Error dispatching request to :10005: 
+[Sun Dec 25 17:38:56.932254 2022] [proxy_fcgi:error] [pid 29296:tid 123145515831296] [client 127.0.0.1:59266] AH01067: Failed to read FastCGI header
+[Sun Dec 25 17:38:56.932502 2022] [proxy_fcgi:error] [pid 29296:tid 123145515831296] (70014)End of file found: [client 127.0.0.1:59266] AH01075: Error dispatching request to :10005: 
+[Sun Dec 25 17:46:33.787866 2022] [proxy_fcgi:error] [pid 29698:tid 123145533784064] [client ::1:59513] AH01067: Failed to read FastCGI header
+[Sun Dec 25 17:46:33.788103 2022] [proxy_fcgi:error] [pid 29698:tid 123145533784064] (70014)End of file found: [client ::1:59513] AH01075: Error dispatching request to :10005: 
+[Sun Dec 25 17:46:49.686068 2022] [proxy_fcgi:error] [pid 29686:tid 123145535930368] [client ::1:59547] AH01067: Failed to read FastCGI header
+[Sun Dec 25 17:46:49.686218 2022] [proxy_fcgi:error] [pid 29686:tid 123145535930368] (70014)End of file found: [client ::1:59547] AH01075: Error dispatching request to :10005: 
+[Sun Dec 25 17:46:54.844239 2022] [proxy_fcgi:error] [pid 29688:tid 123145536466944] [client ::1:59555] AH01067: Failed to read FastCGI header
+[Sun Dec 25 17:46:54.844261 2022] [proxy_fcgi:error] [pid 29688:tid 123145536466944] (70014)End of file found: [client ::1:59555] AH01075: Error dispatching request to :10005: 
+[Sun Dec 25 17:47:48.106804 2022] [proxy_fcgi:error] [pid 29688:tid 123145537540096] [client ::1:59556] AH01067: Failed to read FastCGI header
+[Sun Dec 25 17:47:48.107295 2022] [proxy_fcgi:error] [pid 29688:tid 123145537540096] (70014)End of file found: [client ::1:59556] AH01075: Error dispatching request to :10005: 
+[Sun Dec 25 17:48:41.674014 2022] [proxy_fcgi:error] [pid 29698:tid 123145537003520] [client ::1:59559] AH01067: Failed to read FastCGI header
+[Sun Dec 25 17:48:41.674193 2022] [proxy_fcgi:error] [pid 29698:tid 123145537003520] (70014)End of file found: [client ::1:59559] AH01075: Error dispatching request to :10005: 
+[Sun Dec 25 17:49:02.661208 2022] [proxy_fcgi:error] [pid 29938:tid 123145341136896] [client ::1:59630] AH01067: Failed to read FastCGI header
+[Sun Dec 25 17:49:02.678130 2022] [proxy_fcgi:error] [pid 29938:tid 123145341136896] (70014)End of file found: [client ::1:59630] AH01075: Error dispatching request to :10005: 
+[Sun Dec 25 17:57:29.195144 2022] [proxy_fcgi:error] [pid 30382:tid 123145550848000] [client ::1:59749] AH01067: Failed to read FastCGI header
+[Sun Dec 25 17:57:29.195514 2022] [proxy_fcgi:error] [pid 30382:tid 123145550848000] (70014)End of file found: [client ::1:59749] AH01075: Error dispatching request to :10005: 
+[Sun Dec 25 17:57:37.475479 2022] [proxy_fcgi:error] [pid 30383:tid 123145552994304] [client ::1:59751] AH01067: Failed to read FastCGI header
+[Sun Dec 25 17:57:37.475509 2022] [proxy_fcgi:error] [pid 30383:tid 123145552994304] (70014)End of file found: [client ::1:59751] AH01075: Error dispatching request to :10005: 
+[Sat Dec 31 07:35:43.762315 2022] [proxy_fcgi:error] [pid 75548:tid 123145385398272] [client 127.0.0.1:61652] AH01067: Failed to read FastCGI header, referer: https://wp-devs.local/
+[Sat Dec 31 07:35:43.762564 2022] [proxy_fcgi:error] [pid 75548:tid 123145385398272] (70014)End of file found: [client 127.0.0.1:61652] AH01075: Error dispatching request to :10005: , referer: https://wp-devs.local/
+[Sat Dec 31 07:36:28.364756 2022] [proxy_fcgi:error] [pid 83404:tid 123145420374016] [client 127.0.0.1:61749] AH01067: Failed to read FastCGI header
+[Sat Dec 31 07:36:28.365161 2022] [proxy_fcgi:error] [pid 83404:tid 123145420374016] (70014)End of file found: [client 127.0.0.1:61749] AH01075: Error dispatching request to :10005: 
+[Sat Dec 31 08:06:36.769796 2022] [proxy_fcgi:error] [pid 84330:tid 123145432162304] [client 127.0.0.1:53170] AH01067: Failed to read FastCGI header
+[Sat Dec 31 08:06:36.770423 2022] [proxy_fcgi:error] [pid 84330:tid 123145432162304] (70014)End of file found: [client 127.0.0.1:53170] AH01075: Error dispatching request to :10005: 
+[Sat Dec 31 08:08:04.431907 2022] [proxy_fcgi:error] [pid 84416:tid 123145472638976] [client 127.0.0.1:53733] AH01067: Failed to read FastCGI header
+[Sat Dec 31 08:08:04.432368 2022] [proxy_fcgi:error] [pid 84416:tid 123145472638976] (70014)End of file found: [client 127.0.0.1:53733] AH01075: Error dispatching request to :10005: 
+[Sat Dec 31 08:38:47.139630 2022] [proxy_fcgi:error] [pid 86606:tid 123145388589056] [client ::1:54724] AH01067: Failed to read FastCGI header
+[Sat Dec 31 08:38:47.140067 2022] [proxy_fcgi:error] [pid 86606:tid 123145388589056] (70014)End of file found: [client ::1:54724] AH01075: Error dispatching request to :10005: 
+[Sat Dec 31 08:38:51.920682 2022] [proxy_fcgi:error] [pid 86607:tid 123145389125632] [client ::1:54725] AH01067: Failed to read FastCGI header
+[Sat Dec 31 08:38:51.920717 2022] [proxy_fcgi:error] [pid 86607:tid 123145389125632] (70014)End of file found: [client ::1:54725] AH01075: Error dispatching request to :10005: 
